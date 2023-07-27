@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lobo_rig"
-version = "0.1.0"
+version = "0.4.4"
 description = "Pin variables for my controllers."
 authors = ["Lukasz Lobocki"]
 license = "CC0 v1.0 Universal"

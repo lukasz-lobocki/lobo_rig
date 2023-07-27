@@ -2,7 +2,14 @@
 
 
 
-## v0.1.0 (2023-07-27)
+## v0.4.4 (2023-07-27)
+
+### Fix
+
+* fix: Manual version bump. ([`9548b2b`](https://github.com/lukasz-lobocki/lobo_rig/commit/9548b2b00c468022e258db7066cf9aca458fb4f3))
+
+
+## v0.4.3 (2023-07-27)
 
 ### Feature
 
