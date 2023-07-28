@@ -2,6 +2,13 @@
 
 
 
+## v0.4.5 (2023-07-28)
+
+### Fix
+
+* fix: change ([`76265a8`](https://github.com/lukasz-lobocki/lobo_rig/commit/76265a8e5b8fc3bc913be8ad6dfd0ab215e04ca2))
+
+
 ## v0.4.4 (2023-07-27)
 
 ### Fix
