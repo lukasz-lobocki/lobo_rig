@@ -5,6 +5,11 @@ description = "Pin variables for my controllers."
 authors = ["Lukasz Lobocki"]
 license = "CC0 v1.0 Universal"
 readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+repository = "https://github.com/lukasz-lobocki/lobo_rig"
 
 [tool.poetry.dependencies]
 python = "^3.10"
